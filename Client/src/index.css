@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-vault-bg: #0b0c10;
+  --color-vault-card: #12141D;
+  --color-vault-border: #1E2230;
+  --color-vault-accent: #7c3aed;
+}
+
+body {
+  background-color: var(--color-vault-bg);
+  color: #f3f4f6;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  margin: 0;
+  padding: 0;
+}
