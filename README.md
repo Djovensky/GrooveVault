@@ -40,7 +40,7 @@ Ensure you have the following installed on your host system:
 1. **Go** (v1.22 or higher)
 2. **Node.js** (v18+ recommended) and `npm` or `pnpm`
 3. **yt-dlp & ffmpeg:**:
-   ```bash
+   ```shell
    # Windows (winget)
    winget install yt-dlp ffmpeg
    ```
